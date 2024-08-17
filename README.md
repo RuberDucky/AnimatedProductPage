@@ -24,11 +24,11 @@ To view the project, open the `index.html` file in your browser.
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/RuberDucky/AnimatedProductPage
    ```
 2. **Navigate to the project directory**   
    ```sh 
-   cd <project-directory>
+   cd AnimatedProductPage
 
 3. **Open index.html in your preferred browser**
 
